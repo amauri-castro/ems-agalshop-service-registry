@@ -1,0 +1,1 @@
+# ems-agalshop-service-registry
